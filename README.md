@@ -8,4 +8,4 @@ currently my hobbies are: \
 3.learning C language via Youtube \
 The cartoon character that i resemble the most is ***Dory***
 
-![image of dory](https://pin.it/2WFznU13a)
+![image of dory] (https://pin.it/2WFznU13a)
