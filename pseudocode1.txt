@@ -1,2 +1,14 @@
-# QUESTION=1
-***Find maximum number in any of three variables***
+Question : 1
+Find the maximum number in any of three variables
+**Solution**
+START
+INPUT numa,numb,numc
+IF a>b and a>c 
+PRINT"Maximum number is a"
+IF b>a and b>c 
+PRINT"Maximum number is b"
+IF c>a and c>b 
+PRINT"Maximum number is c"
+ELSE 
+PRINT"All three numbers are equal"
+END
