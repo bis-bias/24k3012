@@ -1,1 +1,2 @@
-
+# QUESTION=1
+***Find maximum number in any of three variables***
