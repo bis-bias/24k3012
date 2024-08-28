@@ -1,1 +1,9 @@
-
+Question=2
+TAKE THREE VARIABLES AS INPUT AND ADD THEM WITHOUT USING THE + OPERATOR
+**solution**
+1 START
+2 INPUT numa,numb,numc
+3 SET sum to -a-b-c
+4 SET ans to (sum * -1)
+5 PRINT "The sum of the numbers is: ans"
+6 END
