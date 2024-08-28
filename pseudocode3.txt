@@ -1,1 +1,13 @@
-
+Question=3
+CREATE A SMALL CALCULATOR WHICH ONLY DOES "+" OR "-" OPERATORS
+**SOLUTION**
+1 START
+2 INPUT numa,operator,numb
+3 IF operator is + THEN
+4 SET ans to numa+numb
+5 ENDIF
+6 IF operator is - THEN
+7 SET ans to numa-numb
+8 ENDIF
+9 PRINT "The result is= ans "
+10 END
