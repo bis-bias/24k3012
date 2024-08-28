@@ -1,1 +1,18 @@
-
+Question=1
+IMPLEMENT AN ALGOITHMM FOR MAKING A SIMPLE CALCULATOR WITH ALL THE OPERATORS(+-*/%)
+**SOLUTION**
+1 Start
+2 INPUT numa.operator,numc
+3 IF operator is'+' THEN 
+PRINT "numa+numb"
+4 IF operator is'-' THEN 
+PRINT "numa-numb"
+5 IF operator is'*' THEN 
+PRINT "numa*numb"
+6 IF operator is '/' THEN 
+PRINT "numa/numb"
+7 IF operator is '%' THEN 
+PRINT "numa%numb"
+8 ELSE
+    print "Dear user,please Enter a valid operator"
+9 END
