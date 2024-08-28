@@ -1,1 +1,32 @@
-
+Question=2
+IMPLEMENT AN ALGORITHM WHERE THE USER ENTERS A NUMBER AND AN APPROPRIATE MONTH IS DISPLAYED
+**SOLUTION**
+1 START
+2 INPUT num1-num12
+3 IF num is 1 THEN:
+ Print "January"
+4 ELSEIF num is 2 THEN:
+ Print "February"
+5 ELSEIF num is 3 THEN:
+ Print "March"
+7 ELSEIF num i is 4 THEN:
+ Print "April"
+8 ELSEIF num is 5 THEN:
+ Print "May"
+9 ELSEIF num is 6 THEN:
+ Print "June"
+10 ELSEIF num is 7 THEN:
+ Print "July"
+11 ELSEIF num is 8 THEN:
+ Print "August"
+12 ELSEIF num is 9 THEN:
+ Print "September"
+13 ELSEIF num is 10 THEN:
+ Print "October"
+14 ELSEIF num is 11 THEN:
+ Print "November"
+15 ELSE IF num is 12 THEN:
+ Print "December"
+Else:
+Print "Dear user, Enter a valid number (1-12)"
+16 END
