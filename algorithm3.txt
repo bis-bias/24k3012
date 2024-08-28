@@ -2,17 +2,22 @@ Question=1
 IMPLEMENT AN ALGOITHMM FOR MAKING A SIMPLE CALCULATOR WITH ALL THE OPERATORS(+-*/%)
 **SOLUTION**
 1 Start
-2 INPUT numa.operator,numc
+2 INPUT numa,operator,numb
 3 IF operator is'+' THEN 
-PRINT "numa+numb"
+  SET ans=numa+numb
+  PRINT "ans"
 4 IF operator is'-' THEN 
-PRINT "numa-numb"
+  SET ans= numa-numb
+  PRINT "ans"
 5 IF operator is'*' THEN 
-PRINT "numa*numb"
+  SET ans=numa*numb
+  PRINT"ans"
 6 IF operator is '/' THEN 
-PRINT "numa/numb"
+  SET ans=numa/numb
+  PRINT"ans"
 7 IF operator is '%' THEN 
-PRINT "numa%numb"
+  SET ans=numa%numb
+  PRINT"ans"
 8 ELSE
-    print "Dear user,please Enter a valid operator"
+    print "Dear user,please enter a valid operator"
 9 END
