@@ -3,12 +3,12 @@ Find the maximum number in any of three variables
 **Solution**
 1 START
 2 INPUT numa,numb,numc
-3 IF a>b and a>c 
-PRINT"Maximum number is a"
-4 IF b>a and b>c 
-PRINT"Maximum number is b"
-5 IF c>a and c>b 
-PRINT"Maximum number is c"
-ELSE 
-PRINT"All three numbers are equal"
-6 END
+3 SET max number=a
+4 IF b>a THEN 
+SET maximum number=b
+5 ENDIF
+6 IF c>b THEN
+SET maximum number=c
+7 ENDIF
+PRINT"maximum number is "
+8 END
