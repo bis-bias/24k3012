@@ -1,1 +1,13 @@
-
+Question=1
+IMPLEMENT AN ALGORITHM FOR DETERMINING IF AN Nth NUMBER IS A DIVISOR OF n NUMBER IF SO, DETERMINE ITS EVEN OR ODD
+**SOLUTION**
+1 Start
+2 Input numa,numb
+3 If b % a = 0 THEN
+4 Print "a is a divisor of b"
+5 Set ans = b % a
+6 If ans % 2 = 0 then:
+7 Print " ans is an even number"
+8 Else 
+    Print " ans is an odd number"
+9 End
