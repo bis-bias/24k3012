@@ -2,7 +2,7 @@ Question=2
 IMPLEMENT AN ALGORITHM WHERE THE USER ENTERS A NUMBER AND AN APPROPRIATE MONTH IS DISPLAYED
 **SOLUTION**
 1 START
-2 INPUT num1-num12
+2 INPUT num1 till num12
 3 IF num is 1 THEN:
  Print "January"
 4 ELSEIF num is 2 THEN:
@@ -28,5 +28,5 @@ IMPLEMENT AN ALGORITHM WHERE THE USER ENTERS A NUMBER AND AN APPROPRIATE MONTH I
 15 ELSE IF num is 12 THEN:
  Print "December"
 Else:
-Print "Dear user, Enter a valid number (1-12)"
+Print "Dear user, Enter a valid number (1 till 12)"
 16 END
